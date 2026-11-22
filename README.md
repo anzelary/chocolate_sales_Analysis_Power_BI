@@ -56,7 +56,7 @@ The analysis investigates chocolate sales performance using the **Chocolate_Sale
 ## Repository Structure
 
 ```text
-Assets/
+Assets/                                     # Screenshots and visual outputs from the analysis
 │
 ├── page_01.png
 ├── page_02.png
@@ -64,19 +64,19 @@ Assets/
 ├── page_04.png
 └── navigating_panel_background_made_by_AI.png
 
-Data/
-└── Chocolate_Sales.csv
+Data/                    
+└── Chocolate_Sales.csv                      # Original / raw version of the dataset
 
 PBIX/
-└── chocolate_sales_power_bi_project.pbix
+└── chocolate_sales_power_bi_project.pbix   # Power BI dashboard 
 
-Docs/
+Docs/                                        # Project documentation and reports
 ├── Analysis_approach.md
-└── Chocolate Sales Dashboard.pdf
+└── Chocolate_sales_dashboard.pdf            # Power BI dashboard's pdf copy
 
-LICENSE
-README.md
-requirements.txt
+LICENSE                                      # MIT License
+README.md                                    # Project overview and documentation
+
 ```
 
 ---
