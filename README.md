@@ -19,6 +19,7 @@ The analysis investigates chocolate sales performance using the **Chocolate_Sale
 - Boxes Shipped
 - Price per Box
 
+![Dashboard Screenshot](Assets/all_pages.png)
 ---
 
 ## What This Project Covers
