@@ -92,7 +92,8 @@ README.md                                    # Project overview and documentatio
 | Amount | Sales Revenue (£) |
 | Boxes Shipped | Number of Boxes Shipped |
 
-The dataset contains sales transactions for multiple chocolate products across different countries and salespeople.
+The dataset contains sales transactions for multiple chocolate products across different countries and salespeople.  
+The dataset source:  Kaggle Dataset Link: https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales
 
 ---
 
@@ -149,16 +150,21 @@ The dataset contains sales transactions for multiple chocolate products across d
 ## How to Use the Dashboard
 
 1. Download and install Power BI Desktop.
-2. Open:
+2. Clone the repository:
+```Shell
+git clone https://github.com/anzelary/chocolate_sales_Analysis_Power_BI.git
+cd chocolate-sales-analysis
+```
+3. Open:
 
 ```text
 PBIX/chocolate_sales_power_bi_project.pbix
 ```
 
-3. If required, reconnect the dataset:
+4. If required, reconnect the dataset:
 
 ```text
-Dataset/Chocolate_sales.csv
+Data/Chocolate_sales.csv
 ```
 
 4. Refresh the model.
