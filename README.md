@@ -202,17 +202,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Author
-
-**Anzela Rizakova**
-## Preview
-## Dashboard page 
-![Dashboard Screenshot](Images/page_01.png)
-## Product analysis page
-![Dashboard Screenshot](Images/page_02.png)
-## Countries analysis page
-![Dashboard Screenshot](Images/page_03.png)
-## Salespersons analysis page
-![Dashboard Screenshot](Images/page_04.png)
-
-Created by Anzela Rizakova | Power BI Portfolio Project | 2026
+Created by [Anzela Rizakova](https://github.com/anzelary) | Power BI Portfolio Project | 2026
