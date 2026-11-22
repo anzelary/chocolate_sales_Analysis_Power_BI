@@ -1,5 +1,3 @@
-# Chocolate_Sales_Analysis_Power_BI
-
 # 🍫 Chocolate Sales Dashboard
 
 **Author:** Anzela Rizakova  
@@ -186,16 +184,12 @@ Data/Chocolate_sales.csv
 
 ## Visual Outputs
 
-Dashboard screenshots can be found in the **Assets/** folder.
-
+Dashboard screenshots can be found in the **Assets/** folder.  
 A complete project report is available in:
-
 ```text
-Docs/Chocolate Sales Analysis.pdf
+Docs/Chocolate_sales_dashboard.pdf
 ```
-
 The detailed methodology can be found in:
-
 ```text
 Docs/Analysis_approach.md
 ```
@@ -205,7 +199,6 @@ Docs/Analysis_approach.md
 ## License
 
 This project is released under the MIT License.
-
 See the **LICENSE** file for details.
 
 ---
