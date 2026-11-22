@@ -198,8 +198,7 @@ Docs/Analysis_approach.md
 
 ## License
 
-This project is released under the MIT License.
-See the **LICENSE** file for details.
+This project is licensed under the [MIT License](LICENSE.md).
 
 ---
 
