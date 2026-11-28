@@ -3,6 +3,8 @@
 **Author:** Anzela Rizakova  
 **Project:** Chocolate Sales  
 **Dataset:** Chocolate_sales.csv  
+**The dataset source:** https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales
+
 
 ## 1. Project Objective
 
