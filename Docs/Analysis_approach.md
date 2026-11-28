@@ -1,9 +1,7 @@
 # Analysis Approach – Chocolate Sales
 
 **Author:** Anzela Rizakova
-
 **Project:** Chocolate Sales
-
 **Dataset:** Chocolate_sales.csv
 
 ## 1. Project Objective
@@ -152,14 +150,15 @@ DAX measures were created to support advanced analysis and KPI reporting within 
 - Madelene Upcott delivered the most consistent performance, contributing 5.11% of total revenue while exhibiting the lowest sales variability among all salespersons.
 - Wilone O'Kielt contributed 2.24% of total revenue, representing the lowest revenue contribution among all salespersons.
 - Every salesperson recorded sales across all product categories and maintained activity for at least one month during the analysis period.
-- Further investigation using interactive dashboard filters revealed that the number of active salespersons peaked at 20 in January, which coincided with the highest monthly revenue. In contrast, only 12 salespersons were active in February and 15 in April, suggesting that fluctuations in sales performance may be partially associated with changes in salesperson activity levels.
+- Further investigation using interactive dashboard filters revealed that the number of active salespersons each month is consistent (25) except only one month - March (24).
 
 ## 8. Conclusion
 
 - Revenue growth appears to be driven by specific products, markets, and time periods rather than consistent performance throughout the year.
 - Volatile but high-performing markets such as the UK, USA, and India offer growth opportunities but require careful monitoring.
 - Stable markets such as Australia, Canada, and New Zealand provide a reliable revenue foundation.
-- The relationship between active salesperson count and monthly revenue suggests that workforce participation may be an important driver of sales performance and warrants further investigation.
+- The consistent number of active salespersons across all months suggests that revenue fluctuations are unlikely to be driven by salesperson participation levels. As total revenue contributions were relatively balanced across salespersons, a monthly performance analysis may provide deeper insights into individual performance patterns and revenue drivers.
+- The wide variation in revenue per box, ranging from £0.01 to £4,291, highlights the need for further investigation into pricing consistency, product segmentation, and potential data quality issues. Understanding the drivers behind these extreme values may help optimise pricing strategies and improve revenue performance.
 - Significant variation in product demand highlights the importance of targeted inventory, pricing, and marketing strategies.
 
 ## 9. Tools & Technique used
@@ -180,9 +179,11 @@ DAX measures were created to support advanced analysis and KPI reporting within 
 - **Actionable Insights** – Focused on findings that help stakeholders understand performance, identify opportunities, and support strategic decision-making.
 
 ## 11. Files Related to this Analysis
+- **PBIX File:** [Chocolate_Sales_Analysis.pbix](PBIX/Chocolate_Sales_Analysis.pbix)
+- **Source Dataset:** [Chocolate_Sales.xlsx](Data/Chocolate_Sales.xlsx)
+- **Dashboard PDF:** [Chocolate_Sales_Dashboard.pdf](Docs/Chocolate_Sales_Dashboard.pdf)
 
-- **PBIX File:** PBIX/Chocolate_Sales_Analysis.pbix
-- **Source Dataset:** Data/Chocolate_Sales.xlsx
-- **Dashboard PDF:** Docs/Chocolate_Sales_Dashboard.pdf
+---
+<sub> This document outlines the structured analytical approach followed throughout the project. <sub/>
 
-*This document outlines the structured analytical approach followed throughout the project.*
+<sub> Created by [Anzela Rizakova](https://github.com/anzelary) | Power BI Portfolio Project | 2026 <sub/>
