@@ -1,8 +1,8 @@
 # Analysis Approach – Chocolate Sales
 
-**Author:** Anzela Rizakova
-**Project:** Chocolate Sales
-**Dataset:** Chocolate_sales.csv
+**Author:** Anzela Rizakova  
+**Project:** Chocolate Sales  
+**Dataset:** Chocolate_sales.csv  
 
 ## 1. Project Objective
 
